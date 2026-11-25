@@ -1,0 +1,7 @@
+# Python 3.10 - 3.12 (open3d has no wheels for Python 3.13+ yet)
+numpy>=1.24
+open3d>=0.18
+matplotlib>=3.7
+
+# Optional: only used when OPENAI_API_KEY is set (LLM-written summary)
+openai>=1.0

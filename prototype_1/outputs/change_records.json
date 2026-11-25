@@ -1,0 +1,46 @@
+[
+  {
+    "type": "removed",
+    "component": "north diagonal 4",
+    "length_m": 1.36,
+    "n_points": 1668,
+    "confidence": 1.0,
+    "id": "C-01",
+    "location_m": [
+      9.0,
+      -0.0,
+      1.0
+    ]
+  },
+  {
+    "type": "altered",
+    "component": "south vertical 4",
+    "displacement_m": 0.41,
+    "n_points": 101,
+    "confidence": 1.0,
+    "id": "C-02",
+    "location_m": [
+      7.96,
+      3.0,
+      1.39
+    ]
+  },
+  {
+    "type": "added",
+    "component": "unknown object",
+    "size_m": [
+      0.87,
+      0.86,
+      1.26
+    ],
+    "n_points": 3000,
+    "near": "floor beam 3",
+    "confidence": 0.8,
+    "id": "C-03",
+    "location_m": [
+      4.99,
+      1.49,
+      0.61
+    ]
+  }
+]

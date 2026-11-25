@@ -1,0 +1,17 @@
+{
+  "alignment": {
+    "ransac_fitness": 0.893,
+    "icp_rmse_m": 0.0408,
+    "rotation_error_deg": 0.015,
+    "translation_error_m": 0.0062
+  },
+  "detection": {
+    "TP": 3,
+    "FP": 0,
+    "FN": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "F1": 1.0,
+    "IoU_removed_member": 0.63
+  }
+}
